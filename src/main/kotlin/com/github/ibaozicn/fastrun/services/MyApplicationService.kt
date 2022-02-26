@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ibaozicn.fastrun.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ibaozicn.fastrun.MyBundle
 
 class MyApplicationService {
 
